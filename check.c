@@ -43,3 +43,6 @@ int main() {
 
     return 0;
 }
+
+
+//gcc -o vulnerability_detection check.c -lcurl
